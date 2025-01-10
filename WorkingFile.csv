@@ -1,4 +1,4 @@
-la1,dlow1,dhigh1,owndegree1, friendshigh1,la2,dlow2,dhigh2,owndegree2,friendshigh2,qpay
-0.56,2,6,6,3,0.34,3,10,3,1,3
-0.7,3,10,10,7,0.1,4,7,7,2,1
-0.15,2,4,4,2,0.77,2,20,20,5,2
+la1,dlow1,dhigh1,owndegree1, friendshigh1,friendslow1,la2,dlow2,dhigh2,owndegree2,friendshigh2,friendslow2,qpay
+0.56,2,6,6,3,3,0.34,3,10,3,1,2,3
+0.7,3,10,10,7,3,0.1,4,7,7,2,5,1
+0.15,2,4,4,2,2,0.77,2,20,20,5,15,2
